@@ -2,4 +2,4 @@
 trabajos para Programación 3 clase Cortez
 
 Trabajo práctico HTML: 
-  para ver el trabajo práctico, descargar la carpeta "Trabajo Práctico HTML" y abrir el archivo .HTML que se encuentra en su interior
+  para ver el trabajo práctico, descargar el archivo "Trabajo Práctico HTML.rar", descomprimirlo y abrir el archivo .HTML que se encuentra en la carpeta descomprimida
